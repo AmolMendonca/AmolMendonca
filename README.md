@@ -11,12 +11,6 @@
   
 
 - Fun fact: My favorite artist is Travis Scott, who's yours?  
-  
-
-<br/>  
-
-
-
 
 ### Frontend  
 <div>  
