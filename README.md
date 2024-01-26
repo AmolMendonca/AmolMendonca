@@ -1,4 +1,4 @@
-### <div align="center">I'm Amol, a passionate founder & full-stack developer!</div>  
+### <div align>I'm Amol, a passionate founder & full-stack developer!</div>  
   
 
 -  I’m currently working on MediGate, a healthcare startup.  
