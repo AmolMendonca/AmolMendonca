@@ -10,7 +10,7 @@
 - I'd love to chat about anything tech, startups or just life in general.  
   
 
-- Fun fact: My favorite artist is Travis Scott, who's yours?  
+- Fun fact: My favorite artist is **Travis Scott**, who's yours?  
 
 ### Frontend  
 <div>  
