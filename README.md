@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Amol Mendonca</h1>
+<h1>Hi, I'm Amol Mendonca</h1>
 <h3>A passionate full-stack developer based in Ann Arbor, Michigan!</h3>
 
 - 🔭 I’m currently working on **MediGate**
