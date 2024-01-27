@@ -7,7 +7,7 @@
 - I’m sharpening my skills in front-end, particularly iOS development.  
   
 
-- I'd love to chat about anything tech, startups or just life in general.  
+- I'd love to chat about anything tech, startups, hackathons & just life in general. 
   
 
 - Fun fact: My favorite artist is **Travis Scott**, who's yours?  
