@@ -1,16 +1,9 @@
-### <h2>I'm Amol, a passionate founder & full-stack developer!</h2>  
+### <h2>I'm Amol, a product designer and builder from Michigan!</h2>  
   
 
--  I’m currently working on MediGate, a healthcare startup.  
-  
-
-- I’m sharpening my skills in front-end, particularly iOS development.  
-  
+- I’m currently working on MediGate, a healthcare startup.    
 
 - I'd love to chat about anything tech, startups, hackathons & just life in general. 
-  
-
-- Fun fact: My favorite artist is **Travis Scott**, who's yours?  
 
 ### Frontend  
 <div>  
