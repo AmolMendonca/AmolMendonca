@@ -5,7 +5,6 @@ I'm an international student from India studying Computer Science @ University o
 When I'm not hacking away at smart contracts or diving into blockchain tech, you'll probably find me brainstorming startup ideas or lost in music. Always eager to connect with fellow builders and tech enthusiasts :)
 
 Let's chat!
-
 </td></tr></table>  
 
 <br/>  
